@@ -1,6 +1,6 @@
 # Virtual environment
 mynewenv/
-data/git rm -r --cached mynewenv
+data/
 
 
 # Python cache
